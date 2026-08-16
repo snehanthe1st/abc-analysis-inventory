@@ -1,0 +1,51 @@
+# ABC Inventory Analysis
+
+## Project Overview
+
+ABC Analysis is an inventory classification technique used to
+prioritize inventory based on its contribution to total inventory value.
+
+## Objective
+
+The objective of this project is to classify inventory into A, B,
+and C categories and identify which products require the highest
+level of inventory control.
+
+## Dataset
+
+The dataset contains:
+- Product ID
+- Annual Demand
+- Unit Cost
+- Annual Usage Value
+
+## Methodology
+
+1. Calculate Annual Usage Value
+2. Sort products by Annual Usage Value
+3. Calculate percentage of total value
+4. Calculate cumulative percentage
+5. Classify products into A, B, and C categories
+6. Visualize the results
+7. Provide inventory management recommendations
+
+## Classification
+
+A: 0–80% cumulative value
+B: 80–95% cumulative value
+C: 95–100% cumulative value
+
+## Key Findings
+
+[Add your actual findings here after completing the analysis.]
+
+## Business Recommendations
+
+[Add recommendations based on your results.]
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Excel formulas
+- Data visualization
